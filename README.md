@@ -12,9 +12,10 @@ I. Question :
 		qua trai va qua phai 1 buoc. Luu y, moi o chi chua 1 quan co
 		duy nhat.
 			VD: di chuyen quan co 1 qua phai 
-		| 1 |   | 2	|		    |   | 1 | 2 |
+			
+		| 1 |   | 2 |		    |   | 1 | 2 |
 		-------------		    -------------
-		| 3 | 4 | 5 |    ==>    | 3 | 4 | 5 |
+		| 3 | 4 | 5 |    ==>        | 3 | 4 | 5 |
 		-------------		    -------------
 		| 6 | 7 | 8 |		    | 6 | 7 | 8 |
 	
